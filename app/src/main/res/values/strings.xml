@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Siroop</string>
+    <string name="enter_product_s_name">Search for products</string>
+    <string name="search">Search</string>
+</resources>
